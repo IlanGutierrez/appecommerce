@@ -1,0 +1,18 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "photo":"./assets/monitor.jpg",
+            "name": "Monitor",
+            "description":"Ergonômico e forte",
+            "price": 3000
+        },
+        {
+            "id": 2,
+            "photo":"./assets/notebook.jpg",
+            "name": "Nobebook",
+            "description":"Notebook Acer alta performance",
+            "price": 2500
+        }
+    ]
+}
